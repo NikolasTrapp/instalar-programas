@@ -1,0 +1,49 @@
+
+[ 15:28:36 ] - INICIANDO INSTALACAO DE PROGRAMAS...
+-=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=-
+[ 15:28:36 ] - INICIANDO INSTALACAO DE PROGRAMAS ATRAVES DO PACMAN
+-=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=-
+[ 15:28:36 ] - O PROGRAMA curl JA ESTA INSTALADO
+-=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=-
+[ 15:28:36 ] - O PROGRAMA code JA ESTA INSTALADO
+-=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=-
+[ 15:28:36 ] - O PROGRAMA jre11-openjdk-headless JA ESTA INSTALADO
+-=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=-
+[ 15:28:36 ] - O PROGRAMA jre11-openjdk JA ESTA INSTALADO
+-=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=-
+[ 15:28:36 ] - O PROGRAMA jdk11-openjdk JA ESTA INSTALADO
+-=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=-
+[ 15:28:36 ] - O PROGRAMA openjdk11-src JA ESTA INSTALADO
+-=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=-
+[ 15:28:36 ] - O PROGRAMA vim JA ESTA INSTALADO
+-=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=-
+[ 15:28:36 ] - O PROGRAMA maven JA ESTA INSTALADO
+-=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=-
+[ 15:28:36 ] - INSTALANDO O PROGRAMA postgresql
+-=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=-
+[ 15:28:45 ] - INSTALACAO DO postgresql CONCLUIDA COM SUCESSO!
+-=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=-
+[ 15:28:45 ] - O PROGRAMA dbeaver JA ESTA INSTALADO
+-=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=-
+[ 15:28:45 ] - O PROGRAMA bitwarden JA ESTA INSTALADO
+-=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=-
+[ 15:28:45 ] - O PROGRAMA discord JA ESTA INSTALADO
+-=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=-
+[ 15:28:45 ] - INSTALANDO O PROGRAMA docker
+-=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=-
+[ 15:29:01 ] - INSTALACAO DO docker CONCLUIDA COM SUCESSO!
+-=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=-
+[ 15:29:01 ] - INICIANDO INSTALACAO DE PROGRAMAS ATRAVES DO PAMAC
+-=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=-
+[ 15:29:01 ] - O PROGRAMA gparted JA ESTA INSTALADO
+-=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=-
+[ 15:29:01 ] - O PROGRAMA intellij-idea-ultimate-edition JA ESTA INSTALADO
+-=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=-
+[ 15:29:01 ] - INSTALANDO O PROGRAMA spotify
+-=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=-
+[ 15:29:38 ] - OCORREU UM ERRO DURANTE A INSTALACAO DO spotify, TENTANTO MAIS 1 VEZ!
+-=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=-
+[ 15:30:07 ] - INSTALACAO DO spotify CONCLUIDA COM SUCESSO!
+-=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=-
+[ 15:30:07 ] - O PROGRAMA rust JA ESTA INSTALADO
+-=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=-
