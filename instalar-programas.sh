@@ -131,7 +131,7 @@ programas_pacman=(
     'jre11-openjdk' 
     'jdk11-openjdk' 
     'openjdk11-src'
-    'vim'
+    'neovim'
     'maven'
     'postgresql'
     'dbeaver'
@@ -159,6 +159,9 @@ done
 
 
 #INSTALACAO DE PROGRAMAS MANUALMENTE
+
+#Importando minhas configuracoes do neovim
+cd ~/.config && git clone https://NikolasTrapp/nvim
 
 #INSTALACAO DO RUST
 verificar_programa_instalado rust
